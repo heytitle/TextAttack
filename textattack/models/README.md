@@ -15,6 +15,10 @@ TextAttack pretrained models, invoke `textattack eval` without specifying a mode
 All evaluations shown are on the full validation or test set up to 1000 examples.
 
 ### `LSTM`
+| Dataset | Accuracy | Successes |
+|:---:|:----:|:-----|
+| agnews | xx | xxx |
+| imdb | 82.14% | xxxx|
 
 <section>
 
